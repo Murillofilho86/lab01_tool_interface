@@ -1,0 +1,7 @@
+[project]
+name = "lab01-tool-interface"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=0.120.2",
+]
